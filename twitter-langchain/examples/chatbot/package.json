@@ -17,7 +17,7 @@
     "@coinbase/twitter-langchain": "^0.0.8",
     "@langchain/core": "0.3.21",
     "@langchain/langgraph": "^0.2.22",
-    "@langchain/openai": "^0.3.14",
+    "@langchain/openai": "^0.5.18",
     "dotenv": "^16.4.5",
     "zod": "^3.22.4"
   },
