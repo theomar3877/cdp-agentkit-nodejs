@@ -35,8 +35,8 @@
     "langchain"
   ],
   "dependencies": {
-    "@coinbase/cdp-agentkit-core": "^0.0.11",
-    "@langchain/core": "^0.3.19",
+    "@coinbase/cdp-agentkit-core": "^0.0.14",
+    "@langchain/core": "^1.1.14",
     "twitter-api-v2": "^1.18.2",
     "zod": "^3.22.4"
   },
